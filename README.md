@@ -1,6 +1,6 @@
 # Worldwide_Earthquake_AzureFabric
 
-![Background](./images/1_background.png)
+<!-- ![Background](./images/1_background.png)
 
 ![Workspace](images/2_workspace.png) 
 ![Lakehouse](images/3_lakehouse.png) 
@@ -32,4 +32,4 @@
 ![Final Result Gold](images/94_finalresult_gold.png) 
 ![Build Reporting](images/95_build_reporting.png) 
 ![Change Workspace](images/612_change_wp.png) 
-![Visualization](images/visualization.png)
+![Visualization](images/visualization.png) -->
